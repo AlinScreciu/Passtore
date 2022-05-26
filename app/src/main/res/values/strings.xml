@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Passtore</string>
+    <string name="master_hint">Master Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="searchHint">Search</string>
+    <string name="add_account">add account</string>
+    <string name="add_account_hint">Add account</string>
+</resources>

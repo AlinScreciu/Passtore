@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="icon">@drawable/ic_baseline_remove_circle_24</item>
+        <item name="iconGravity">textEnd</item>
+        <item name="background">@drawable/ic_round_button_bg</item>
+        <item name="iconPadding">0dp</item>
+        <item name="iconSize">33dp</item>
+        <item name="iconTint">@color/dark_green</item>
+    </style>
+</resources>

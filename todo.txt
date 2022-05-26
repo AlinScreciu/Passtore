@@ -1,0 +1,5 @@
+1. Show master password requirments 1st time.
+2. Show you can copy password.
+3. lighto mode. 
+4. add color theme button
+5. add back button
